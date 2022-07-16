@@ -21,5 +21,5 @@ Source: https://github.com/PaddlePaddle/Paddle-Lite-Demo/tree/master/PaddleLite-
 <img src="https://user-images.githubusercontent.com/71536778/179149306-a14cdd71-c4c6-473b-b9df-09a82d0667b5.jpg" width = "200"  />
 <img src="https://user-images.githubusercontent.com/71536778/179149310-d3e692bf-48b1-48d6-afcc-67b11249e579.jpg" width = "200"  />
 <img src="https://user-images.githubusercontent.com/71536778/179149314-4045910d-eb09-4457-b588-6e3991e5ebb9.jpg" width = "200"  />
-<img src="https://ai-studio-static-online.cdn.bcebos.com/ec5265ac1c48481682c4a3e3a082d402aacab991fc6741e4b653c360ca441f78" width = "200"  />
+<img src="https://user-images.githubusercontent.com/71536778/179342990-137ca084-2142-4003-adeb-2a3b75cc1dee.gif" width = "200"  />
 </div>
