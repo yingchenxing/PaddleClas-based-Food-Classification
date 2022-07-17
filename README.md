@@ -8,7 +8,8 @@ Source: https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
 
 A challenging data set of 101 food categories, with 101'000 images. For each class, 250 manually reviewed test images are provided as well as 750 training images. On purpose, the training images were not cleaned, and thus still contain some amount of noise. This comes mostly in the form of intense colors and sometimes wrong labels. All images were rescaled to have a maximum side length of 512 pixels.
 
-
+## Model Project
+AI studio: https://aistudio.baidu.com/aistudio/projectdetail/4344470?contributionType=1&shared=1
 
 ## APP Template
 
